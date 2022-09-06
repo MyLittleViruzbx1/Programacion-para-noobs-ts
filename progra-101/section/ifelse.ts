@@ -26,5 +26,4 @@ if(grade >= 60){
     }
 }
 
-
 console.log('fin de programa');

@@ -1,6 +1,6 @@
-import addTwoNumbers, { substractTwoNumbers } from './helpers/math-helpers';
-import { timesTwoNumbers, divideTwoNumbers } from './helpers/math-helpers';
-import { printMultiplicationTable } from './helpers/print-multiplication-table';
+import addTwoNumbers, { substractTwoNumbers } from '../helpers/math-helpers';
+import { timesTwoNumbers, divideTwoNumbers } from '../helpers/math-helpers';
+import { printMultiplicationTable } from '../helpers/print-multiplication-table';
 //Function
 
 export function greet(name:string){
@@ -17,4 +17,3 @@ console.log(total2);
 console.log(total3);
 
 printMultiplicationTable(3,15);
-
