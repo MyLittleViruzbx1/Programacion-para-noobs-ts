@@ -1,4 +1,4 @@
-let heroes = ['Dom', 'Dr. Strange', 'Hulk', 'She Hulk', 'Spiderman', 'Captain Marvel'];
+export let heroes = ['Dom', 'Dr. Strange', 'Hulk', 'She Hulk', 'Spiderman', 'Captain Marvel'];
 
 function heroesThatStartsWith(nameList:string[], letter:string){
     
